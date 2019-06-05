@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLib1", "StaticLib1\StaticLib1.vcxproj", "{29449D90-2964-4F98-AB77-095A3C2157C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ECOTE", "ECOTE\ECOTE.vcxproj", "{064792C4-F407-4D37-B72F-0C4061287F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29449D90-2964-4F98-AB77-095A3C2157C6}.Debug|x64.ActiveCfg = Debug|x64
+		{29449D90-2964-4F98-AB77-095A3C2157C6}.Debug|x64.Build.0 = Debug|x64
+		{29449D90-2964-4F98-AB77-095A3C2157C6}.Release|x64.ActiveCfg = Debug|x64
+		{29449D90-2964-4F98-AB77-095A3C2157C6}.Release|x64.Build.0 = Debug|x64
+		{064792C4-F407-4D37-B72F-0C4061287F7E}.Debug|x64.ActiveCfg = Debug|x64
+		{064792C4-F407-4D37-B72F-0C4061287F7E}.Debug|x64.Build.0 = Debug|x64
+		{064792C4-F407-4D37-B72F-0C4061287F7E}.Release|x64.ActiveCfg = Debug|x64
+		{064792C4-F407-4D37-B72F-0C4061287F7E}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62EF32D-19C3-4F4A-881A-21515E7124D1}
+	EndGlobalSection
+EndGlobal
