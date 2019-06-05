@@ -1,0 +1,6 @@
+Package: antlr4
+Version: 4.7.1-3
+Architecture: x64-windows
+Multi-Arch: same
+Description: ANother Tool for Language Recognition
+Status: install ok installed
